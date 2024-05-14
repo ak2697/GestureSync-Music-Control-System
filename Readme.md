@@ -10,3 +10,6 @@ The user-friendly gestures like "wrist raise" for time display and gestures for 
 - Python
 - OpenCV
 - Spotipy
+
+## Demo
+[![Demo](assets/demo-thumbnail.png)](https://drive.google.com/file/d/1W7uorXOYxEOXGkynt3Ren8KnbUF8xQ4l/view?usp=sharing)
